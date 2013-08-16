@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'ZKRevealingTableViewCell'
-  s.version      = '0.0.3'
+  s.version      = '0.0.4JN'
   s.license      = 'MIT'
   s.summary      = 'A Sparrow-style Implementation of Swipe-To-Reveal.'
   s.homepage     = 'https://github.com/alexzielenski/ZKRevealingTableViewCell'
